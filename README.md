@@ -6,7 +6,7 @@ Real-world vulnerability write-ups by Nam.
 
 | # | Vulnerability | Target | Severity | Status |
 |---|--------------|--------|----------|--------|
-| 1 | [Wormable Stored XSS via Unsanitized AI Output](./genspark-stored-xss/) | Genspark AI Chat | Critical | Fixed |
+| 1 | [Stored XSS via Unsanitized AI Output](./genspark-stored-xss/) | Genspark AI Chat | High (assessed) | Fixed |
 | 2 | [DOM-based XSS in Dictionary Extension](./coccoc-dom-xss/) | Cốc Cốc Browser | Medium | Reported and Fixed |
 
 ## About
@@ -18,5 +18,6 @@ focused on web application security and AI-augmented security research.
 - 🐦 **X/Twitter**: [@vuvannam_sec](https://x.com/vuvannam_sec)
 - 💻 **GitHub**: [@vuvannam-sec](https://github.com/vuvannam-sec)
 - 💼 **LinkedIn**: [namvuvan-security](https://www.linkedin.com/in/namvuvan-security)
+
 
 
